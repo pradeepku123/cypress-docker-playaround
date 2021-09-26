@@ -1,0 +1,8 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl": "https://demo.testim.io",
+    "video": false,
+    "viewportWidth": 1280,
+    "viewportHeight": 900
+    
+}
